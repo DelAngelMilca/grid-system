@@ -1,0 +1,25 @@
+.menu li{
+	list-style-type: none;
+	display: inline;
+	font-size: 15px;
+	font-family: 
+}
+.menu{
+	background-color: gray;
+	height: 40px;
+	padding-top: 10px;
+
+
+
+}
+
+.icono{
+	height:30%;
+	width: 30%;
+
+}
+.encabezado{
+	background-color: gray;
+	text-align: center;
+	margin: 30px;
+}
